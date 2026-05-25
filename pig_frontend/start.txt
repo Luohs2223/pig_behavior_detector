@@ -1,0 +1,2 @@
+cd /d D:\myapp\vscode_workplace\pig_frontend
+npm run dev
